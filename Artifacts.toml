@@ -1,115 +1,115 @@
 [[nghttp3]]
 arch = "aarch64"
-git-tree-sha1 = "f50e522cfbc7e66d9a4521857031aabe864453a6"
+git-tree-sha1 = "e3d3ea3def8e677ed31b284237144ef9c9a2fdc3"
 libc = "glibc"
 os = "linux"
 
     [[nghttp3.download]]
-    sha256 = "14a407542327d381f26bb08fb289b32e11df2684e9fd4f17bd9c1fb4c4cbf244"
-    url = "https://github.com/grlap/Nghttp3_jll.jl/releases/download/nghttp3-v0.0.1+0/nghttp3.v0.0.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "39c70da8532a17ffdeb0ba283cef2795ec99e2286ed94364272e6e8d86468059"
+    url = "https://github.com/grlap/Nghttp3_jll.jl/releases/download/nghttp3-v0.0.33+0/nghttp3.v0.0.33.aarch64-linux-gnu.tar.gz"
 [[nghttp3]]
 arch = "aarch64"
-git-tree-sha1 = "dcb93107356a411a6e76898be474fa3dd92e3445"
+git-tree-sha1 = "de47893e1c9a0b197730d1d146ea01874eb5b104"
 libc = "musl"
 os = "linux"
 
     [[nghttp3.download]]
-    sha256 = "b81d832db8ef8b2c6427a8350dcb6c6761c7c0df07d81165123d13e9efb951ed"
-    url = "https://github.com/grlap/Nghttp3_jll.jl/releases/download/nghttp3-v0.0.1+0/nghttp3.v0.0.1.aarch64-linux-musl.tar.gz"
+    sha256 = "e073dccb47cd331d9d43beaee24b4b0ed3cbc981102bde0445d38fa2f7500a6c"
+    url = "https://github.com/grlap/Nghttp3_jll.jl/releases/download/nghttp3-v0.0.33+0/nghttp3.v0.0.33.aarch64-linux-musl.tar.gz"
 [[nghttp3]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "76e5e97ea8d29979931eb147047c3a92cbfe0e3a"
+git-tree-sha1 = "f28702d0665a46b1f0e5e91d34ca1060066c7cbe"
 libc = "glibc"
 os = "linux"
 
     [[nghttp3.download]]
-    sha256 = "187218977277899a04fd317946c9ea6c61a47548caff1e186f4ea81c9f3d3360"
-    url = "https://github.com/grlap/Nghttp3_jll.jl/releases/download/nghttp3-v0.0.1+0/nghttp3.v0.0.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "85e7947228623c6345e76fc5dc894783e0ab131dce43e6c6667fdb7122f73028"
+    url = "https://github.com/grlap/Nghttp3_jll.jl/releases/download/nghttp3-v0.0.33+0/nghttp3.v0.0.33.armv7l-linux-gnueabihf.tar.gz"
 [[nghttp3]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "8a0ab0552ea1c0eda6b196aca6267abbb90a30e8"
+git-tree-sha1 = "800ade9c3185f8ce26b09b1766336a53debc9ebe"
 libc = "musl"
 os = "linux"
 
     [[nghttp3.download]]
-    sha256 = "226d5cf5507ef4f01e01ae6a52e5d1ad3beecf7fda2b9244df45677e058662ca"
-    url = "https://github.com/grlap/Nghttp3_jll.jl/releases/download/nghttp3-v0.0.1+0/nghttp3.v0.0.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "6f31a5f5c1dd1aa4cbc81f7f2618ee507349bf6e6161719b6bc995384ad7299e"
+    url = "https://github.com/grlap/Nghttp3_jll.jl/releases/download/nghttp3-v0.0.33+0/nghttp3.v0.0.33.armv7l-linux-musleabihf.tar.gz"
 [[nghttp3]]
 arch = "i686"
-git-tree-sha1 = "3541b28f40da5ac4e14f6cabf6ac26ac33622931"
+git-tree-sha1 = "ffd8a6982a0cc4b86e490c124a5a5eeaad83f9df"
 libc = "glibc"
 os = "linux"
 
     [[nghttp3.download]]
-    sha256 = "bc70eabf09e6998945c7583670d9634c699b51176aeb1726669c10d6a3962768"
-    url = "https://github.com/grlap/Nghttp3_jll.jl/releases/download/nghttp3-v0.0.1+0/nghttp3.v0.0.1.i686-linux-gnu.tar.gz"
+    sha256 = "9a13c6c603e4b20a49604bbe901e2b11a1130683f0f90dda80ed20d508795922"
+    url = "https://github.com/grlap/Nghttp3_jll.jl/releases/download/nghttp3-v0.0.33+0/nghttp3.v0.0.33.i686-linux-gnu.tar.gz"
 [[nghttp3]]
 arch = "i686"
-git-tree-sha1 = "a03fe15b225e3e284af143d51f0aec26ae71699d"
+git-tree-sha1 = "5d2654b63a48898a609e16c4cd14cfff84f8fab1"
 libc = "musl"
 os = "linux"
 
     [[nghttp3.download]]
-    sha256 = "bd6e8d6da9014715d45f6a11e2d57be627f46f151e1670bf5ae45baad32132ba"
-    url = "https://github.com/grlap/Nghttp3_jll.jl/releases/download/nghttp3-v0.0.1+0/nghttp3.v0.0.1.i686-linux-musl.tar.gz"
+    sha256 = "aef01416146a8a080c6c271a8d08920fe6715dcd4c9f4145418b19eedf691fc9"
+    url = "https://github.com/grlap/Nghttp3_jll.jl/releases/download/nghttp3-v0.0.33+0/nghttp3.v0.0.33.i686-linux-musl.tar.gz"
 [[nghttp3]]
 arch = "i686"
-git-tree-sha1 = "ba6e93d6abd969966b049fcadbd8c8826c0fcb2d"
+git-tree-sha1 = "210fc5238bd65908173d28253539fa0a8a8576a0"
 os = "windows"
 
     [[nghttp3.download]]
-    sha256 = "de907741da38ead149b71499963053938354f8066cb193c73fdcd9b7c10f0cb5"
-    url = "https://github.com/grlap/Nghttp3_jll.jl/releases/download/nghttp3-v0.0.1+0/nghttp3.v0.0.1.i686-w64-mingw32.tar.gz"
+    sha256 = "fdc3351b19ce2d40d492cb5e35b5ce8aa001f80baee5f28610f439b59ff7ae0d"
+    url = "https://github.com/grlap/Nghttp3_jll.jl/releases/download/nghttp3-v0.0.33+0/nghttp3.v0.0.33.i686-w64-mingw32.tar.gz"
 [[nghttp3]]
 arch = "powerpc64le"
-git-tree-sha1 = "024530e5c5f9714e4f917b70123ff2d161719881"
+git-tree-sha1 = "c188b9016ce4d9cea1b1777ddb79d8f5d51f5df0"
 libc = "glibc"
 os = "linux"
 
     [[nghttp3.download]]
-    sha256 = "e5474996ae7ffa941a2a106fdda492a672af041576df7c3f05fa07cb9fc93dc0"
-    url = "https://github.com/grlap/Nghttp3_jll.jl/releases/download/nghttp3-v0.0.1+0/nghttp3.v0.0.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "21c4640f8d5b3cd66c2388fab3b547d3022f9381a9de2c9a4ef3a19497a1eeaf"
+    url = "https://github.com/grlap/Nghttp3_jll.jl/releases/download/nghttp3-v0.0.33+0/nghttp3.v0.0.33.powerpc64le-linux-gnu.tar.gz"
 [[nghttp3]]
 arch = "x86_64"
-git-tree-sha1 = "1c91354f4a35a0f3004a3d1e299e5af07e1797d1"
+git-tree-sha1 = "807d06abbc65ad58951b97ace6041845c828a584"
 os = "macos"
 
     [[nghttp3.download]]
-    sha256 = "9162a6aa0f0853b5ad7c2bbef4ec7802449217350cb0a34abab307239f03d49f"
-    url = "https://github.com/grlap/Nghttp3_jll.jl/releases/download/nghttp3-v0.0.1+0/nghttp3.v0.0.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "df8f9219153f8248c87141f3a218ce256d1ca57fd746276fe98c75dcfceb8fe6"
+    url = "https://github.com/grlap/Nghttp3_jll.jl/releases/download/nghttp3-v0.0.33+0/nghttp3.v0.0.33.x86_64-apple-darwin.tar.gz"
 [[nghttp3]]
 arch = "x86_64"
-git-tree-sha1 = "0782a9c80caab79152ff2bd7f0a59ee03097322c"
+git-tree-sha1 = "2e636fde5aa0a9220d4cf70f990f8ca754c0cdab"
 libc = "glibc"
 os = "linux"
 
     [[nghttp3.download]]
-    sha256 = "4870635aa98423a0ccc20c923183309bebfb5a30294ad4f47d1e24f5283cbf23"
-    url = "https://github.com/grlap/Nghttp3_jll.jl/releases/download/nghttp3-v0.0.1+0/nghttp3.v0.0.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "4237fafcab75cbab12919a29ae8415f002fb6092517d2cb3f52a375d3229b47d"
+    url = "https://github.com/grlap/Nghttp3_jll.jl/releases/download/nghttp3-v0.0.33+0/nghttp3.v0.0.33.x86_64-linux-gnu.tar.gz"
 [[nghttp3]]
 arch = "x86_64"
-git-tree-sha1 = "b5060ebf112fbf5a19359236d3406f7bbe4ef2cb"
+git-tree-sha1 = "1c10ffa62acc993e55a7ccd2d2eabb86464db9f7"
 libc = "musl"
 os = "linux"
 
     [[nghttp3.download]]
-    sha256 = "e0917bcc392338d50399774fcecaca42404943e4dafba39a3b06ad57946bdfb7"
-    url = "https://github.com/grlap/Nghttp3_jll.jl/releases/download/nghttp3-v0.0.1+0/nghttp3.v0.0.1.x86_64-linux-musl.tar.gz"
+    sha256 = "c4f2080d4cd284db5693b278c7b0fc012d9357d14129bc7ee3e242f52c75184e"
+    url = "https://github.com/grlap/Nghttp3_jll.jl/releases/download/nghttp3-v0.0.33+0/nghttp3.v0.0.33.x86_64-linux-musl.tar.gz"
 [[nghttp3]]
 arch = "x86_64"
-git-tree-sha1 = "d6d00f604b0ba7ca272a4218d9669d9bd497d99c"
+git-tree-sha1 = "1e38ae60109ed3aedc2101bd5f43ad1796e57c6d"
 os = "freebsd"
 
     [[nghttp3.download]]
-    sha256 = "4bc87e5f9df3af39c1e2046982b083e30e906e67975620733d44866e30417980"
-    url = "https://github.com/grlap/Nghttp3_jll.jl/releases/download/nghttp3-v0.0.1+0/nghttp3.v0.0.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "ff2b1ac6c1ebd7b9fe6f6b75e946ba38e1220814ec0561a666ab0eea984b35bc"
+    url = "https://github.com/grlap/Nghttp3_jll.jl/releases/download/nghttp3-v0.0.33+0/nghttp3.v0.0.33.x86_64-unknown-freebsd.tar.gz"
 [[nghttp3]]
 arch = "x86_64"
-git-tree-sha1 = "58ec5e8cb7b8a057ad436803dc1ad68e8e87e4fd"
+git-tree-sha1 = "442b0ef74a6cd15e836216a1f4129d09861b2704"
 os = "windows"
 
     [[nghttp3.download]]
-    sha256 = "93f9fc220b534780e573fa21054ac9ade701297fb5fa989618b12e7b5c8c0794"
-    url = "https://github.com/grlap/Nghttp3_jll.jl/releases/download/nghttp3-v0.0.1+0/nghttp3.v0.0.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "7edba7cbe53e7a49fa2b3c1c98206fbad58685133ee5f72ba7bc0d85d589fc40"
+    url = "https://github.com/grlap/Nghttp3_jll.jl/releases/download/nghttp3-v0.0.33+0/nghttp3.v0.0.33.x86_64-w64-mingw32.tar.gz"

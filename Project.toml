@@ -1,6 +1,6 @@
 name = "nghttp3_jll"
 uuid = "ddcadc53-6d93-5ff2-a689-b0a21eea8355"
-version = "0.0.1+0"
+version = "0.0.33+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
